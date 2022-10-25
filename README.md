@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [higher level programming](https://github.com/m1dnas/holbertonschool-higher_level_programming)
 
-- 🌱 I’m currently learning **Python, HTML and Javascript**
+- 🌱 I’m currently learning **Python, HTML, CSS and Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
