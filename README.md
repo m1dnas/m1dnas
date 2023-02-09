@@ -29,8 +29,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="250" src="https://media2.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif?cid=ecf05e47vpd7ft03374tb3rxfxppgtcci4163jcw442purda&rid=giphy.gif&ct=g"  />
-</div>
-
 ###
+
+
+<img align="right" height="280" src="https://media.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif"  />
+
+<img align="left" height="280" src="https://media.giphy.com/media/qp61kl8rdZwuQ/giphy.gif"   />
