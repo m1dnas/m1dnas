@@ -32,6 +32,6 @@
 ###
 
 
-<img align="right" height="500" src="https://media.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif"  />
+<img align="right" height="400" src="https://media.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif"  />
 
-<img align="left" height="500" src="https://media.giphy.com/media/qp61kl8rdZwuQ/giphy.gif"   />
+<img align="left" height="400" src="https://media.giphy.com/media/qp61kl8rdZwuQ/giphy.gif"   />
