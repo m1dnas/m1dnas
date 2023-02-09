@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media2.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif?cid=ecf05e47vpd7ft03374tb3rxfxppgtcci4163jcw442purda&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
@@ -32,3 +26,11 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://media2.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif?cid=ecf05e47vpd7ft03374tb3rxfxppgtcci4163jcw442purda&rid=giphy.gif&ct=g"  />
+</div>
+
+###
