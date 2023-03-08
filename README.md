@@ -1,37 +1,110 @@
-<h2 align="center">Hi 👋, I'm Feli 👨‍💻</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=m1dnas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=m1dnas" height="150" alt="languages graph"  />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Felipe, a software engineer student 👨‍💻</div>  
+  
+
+- 🔭 I’m currently working on my portfolio   
+  
+
+- 🌱 I’m currently learning NodeJS and deepening JavaScript  
+  
+
+- ❓ Ask me something related to Python and Django  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+## 📝 My JSON 
+<table><tr><td valign="top" width="33%">
+
+```json
+{
+  "name": "Felipe Sandim",
+  "age": 21,
+  "nationality": ["Uruguayan", "Brazilian"],
+  "languages": ["Spanish", "Portuguese", "English"],
+  "skills": {
+    "backend": ["Python", "Django", "DRF", "MySQL"],
+    "frontend": ["JavaScript", "HTML", "CSS"]
+  },
+  "projects": [
+    {
+      "name": "CodeClimber",
+      "description": "A web application that allows users to test their skills in HTML, CSS, JavaScript, and Python through multiple choice questions.",
+      "technologies": ["Python", "Django", "Django Rest Framework", "React", "MySQL", "JavaScript", "HTML", "CSS"],
+      "repository": "https://github.com/Lautaro1387/CodeClimber"
+    }
+  ],
+  "tools": [
+    "Git",
+    "Linux",
+    "GitHub",
+    "Django",
+    "DRF",
+  ],
+  "interests": [
+    "Playing football",
+    "Exercising",
+    "Hanging out with friends"
+  ]
+}
+```  
+
+
+</td><td valign="top" width="33%">
+
+<div align="center">  
+  
 </div>
 
-###
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## 👔 Connect with me  
+<div align="center">
+<a href="https://github.com/github.com/m1dnas" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/felipesandim" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## 💯 Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=m1dnas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## 📩 Blog Posts  
+  
+
+<br/>  
+
+[Artículo de mi proyecto CodeClimber](https://www.linkedin.com/posts/felipesandim_dear-network-im-glad-to-share-how-it-works-activity-7037892195420413952-joK9?utm_source=share&utm_medium=member_desktop)
+
+
+<br/>  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="42" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=m1dnas&&style=flat-square" align="center" />
+</div>  
+  
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-<br clear="both">
-
-###
-
-
-<img align="right" height="400" src="https://media.giphy.com/media/l0HTZxNfHrANIlIfS/giphy.gif"  />
-
-<img align="left" height="400" src="https://media.giphy.com/media/qp61kl8rdZwuQ/giphy.gif"   />
+<br/>  
