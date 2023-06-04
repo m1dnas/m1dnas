@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my portfolio   
   
 
-- 🌱 I’m currently learning NodeJS and deepening JavaScript  
+- 🌱 I’m currently learning Java 
   
 
 - ❓ Ask me something related to Python and Django  
@@ -30,7 +30,7 @@
   "nationality": ["Uruguayan", "Brazilian"],
   "languages": ["Spanish", "Portuguese", "English"],
   "skills": {
-    "backend": ["Python", "Django", "DRF", "MySQL"],
+    "backend": ["Python", "Java", "Django", "DRF", "MySQL", "SQL"],
     "frontend": ["JavaScript", "HTML", "CSS"]
   },
   "projects": [
