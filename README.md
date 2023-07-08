@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my portfolio   
   
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java (Spring Boot & Selenium)
   
 
 - ❓ Ask me something related to Python and Django  
@@ -30,7 +30,7 @@
   "nationality": ["Uruguayan", "Brazilian"],
   "languages": ["Spanish", "Portuguese", "English"],
   "skills": {
-    "backend": ["Python", "Java", "Django", "DRF", "MySQL", "SQL"],
+    "backend": ["Python", "Django", "Django REST Framework", "Java", "Spring Boot", "MySQL", "SQL"],
     "frontend": ["JavaScript", "HTML", "CSS"]
   },
   "projects": [
@@ -44,9 +44,7 @@
   "tools": [
     "Git",
     "Linux",
-    "GitHub",
-    "Django",
-    "DRF",
+    "GitHub"
   ],
   "interests": [
     "Playing football",
